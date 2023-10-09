@@ -1,15 +1,3 @@
-Hi 👋, I'm Shubham Kumar
-- About me
-💫 So I have been always attracted to the power of IT industry which can create an impact on millions of lives on earth in few seconds. Although I started my coding journey with java language, being a self-learner, I got more inclined towards Web Development.
-🌱 I’m currently learning Web Development
-⚡ Fun fact : I used to think that coding would be boring.
-
-
-- An aspiring Web developer from India
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
 
 <!---
 Shubhamkumar8789/Shubhamkumar8789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning data engineering and DevOps 
 - 💞️ I’m looking to collaborate on project involving IoT and green science 
 - 📫 How to reach me 
-- Linkedin :- https://www.linkedin.com/in/akash-dwivedi-9a1091160/
-- Email    :- aakashdwivedi2000@gmail.com
-- Website  :- [akashcode.me](https://akashcode.me/)
+- Linkedin :- https://www.linkedin.com/in/shubham8789/
+- Email    :- mrshubham8676@gmail.com
+- Website  :- https://shubhamkumar8789.github.io/Portfolio/index.html
 
 
 ### GitHub Stats
